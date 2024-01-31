@@ -1,0 +1,37 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Computer id="dGibson" name="The Gibson" security="99" type="empty" icon="DLCServer" ip="54.235.88.143">
+
+  <trace time="95" />
+  <portsForCrack val="9" />
+  <ports>22, 21, 25, 80, 1433, 104, 6881, 443, 192</ports>
+  <portRemap>443=8080</portRemap>
+  <admin type="progress"/>
+  
+  <proxy time="5" />
+  <firewall level="6"/>
+
+  <admin type="progress" isSuper="true"/>
+
+  <file path="bin" name="ClockV2.exe">#CLOCK_V2_EXE#</file>
+  
+  <file path="home" name="Victors.txt">
+Orann
+Sh1n0d4
+Photon
+RainShatter
+Shimo7even
+L0m1s
+meepkittyfXck
+Lorde_Bashtien
+MLT
+DependableSkeleton
+Mitnick
+  </file>
+
+  <file path="bin" name="home.txt">
+
+    https://discord.gg/xcMJRE7
+
+  </file>
+
+</Computer>
