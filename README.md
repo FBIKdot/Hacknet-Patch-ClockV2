@@ -2,7 +2,7 @@
 
 Powershell based patch script for Hacknet, which fix a bug in Hacknet.
 
-The English and language translations are out of sync, which cause this bug. In Hacknet's translations of Chinese, French, Japanese, Korean, Russian, Spanish and Turkish, The IP address in the memorydump of `Head of the Polar Star` is differend from the IP of `The Gibson` (which has `ClockV2.exe`). In German, the two IP addresses are the same, but they are not randomly generated.
+Synchronization between English and translation is not instant, which cause this bug. In Hacknet's translations of Chinese, French, Japanese, Korean, Russian, Spanish and Turkish, The IP address in the memorydump of `Head of the Polar Star` is differend from the IP of `The Gibson` (which has `ClockV2.exe`). In German, the two IP addresses are the same, but they are not randomly generated.
 
 Star this repository if you think it is useful!
 
